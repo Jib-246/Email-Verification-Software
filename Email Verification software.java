@@ -46,12 +46,3 @@ class EmailVerification{
         
     }
 }
-
-
-
-
-
-//chnage the string name to email for better clarity
-// change if nameequaals ignore case to email.toLowerCase().endsWith("@genericcorparatemeail.com") to check if the email ends with the specified domain
-// make the database prompt inside the login block to ensure it only appears for valid users  
-// make sure that when a user enters an invalid role, the database prompt does not appear and instead shows an error message.
